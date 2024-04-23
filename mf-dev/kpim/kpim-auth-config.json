@@ -1,9 +1,9 @@
 {
-   "mf":"Auth",
-   "api":"//localhost:8083/api",
-   "keycloak":{
-      "url":"https://idm.dev-digital-enabler.eng.it/auth",
-      "clientId":"dme-v2-app",
-      "enabled":false
-   }
+  "mf": "Auth",
+  "api": "//localhost:3000/api/v1",
+  "keycloak": {
+    "url": "https://idm.dev-digital-enabler.eng.it/auth",
+    "clientId": "dme-v2-app",
+    "enabled": false
+  }
 }
