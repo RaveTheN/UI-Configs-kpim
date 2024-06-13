@@ -1,4 +1,5 @@
 {
   "mf": "KPIM Editor",
-  "api": "//localhost:3000/api/v1"
+  "api": "//localhost:3000/api/v1",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
