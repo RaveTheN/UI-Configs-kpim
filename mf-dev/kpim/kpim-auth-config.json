@@ -4,6 +4,6 @@
   "keycloak": {
     "url": "https://idm.dev-digital-enabler.eng.it/auth",
     "clientId": "kpi-manager-app",
-    "enabled": true
+    "enabled": false
   }
 }
